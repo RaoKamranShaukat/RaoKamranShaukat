@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raokamranshaukat&show_icons=true&locale=en" alt="raokamranshaukat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raokamranshaukat&" alt="raokamranshaukat" /></p>
+<h2 align="left">Certificates:</h2>
+<p>
+<h3 align="left">Improving Real World RAG Systems: Key Challenges & Practical Solutions</h3>
+<img align="center" src="https://github.com/RaoKamranShaukat/RaoKamranShaukat/blob/main/Rao%20Kamran%20Shauket%20-%202024-11-22-1.png" alt="RAG Certifcate" /></p>
