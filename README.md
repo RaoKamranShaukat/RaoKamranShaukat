@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raokamranshauket@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1gsMalpKoU8CeUuH-LalzBBreOdAQNu94/view?usp=sharing](https://drive.google.com/file/d/1gsMalpKoU8CeUuH-LalzBBreOdAQNu94/view?usp=sharing)
+- 📄 My Resume [https://docs.google.com/document/d/1tXNnoCVcrpq_4Klb4UbMXk3bcjBup5AX/edit?usp=drivesdk&ouid=110539342367952579685&rtpof=true&sd=true](https://drive.google.com/file/d/1gsMalpKoU8CeUuH-LalzBBreOdAQNu94/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
